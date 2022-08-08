@@ -7,7 +7,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+## Application Setup
+
 Runs the app in the development mode.\
+Use the command ###[npm start]###
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
